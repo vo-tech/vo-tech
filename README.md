@@ -12,11 +12,11 @@
 ### 🚀 Key Projects (no supervision)
 - Developed a robust invoice issuance bot with advanced data handling and error management, showcasing skills in business process automation and system integration.
 - Created multiple small-scale projects from scratch using JavaScript, Python, HTML, and VBA, demonstrating versatility and quick learning ability.
-- Developed a full financial system with Google Sheets/Google Apps Script with db, backups, dashboards, Income Statement, logs, user control, data treatment, sending whatsapp via Twillio API, automated billing generation and more.
+- Developed a full financial system with Google Sheets/Google Apps Script with db, backups, dashboards, Income Statement, logs, user control, data treatment, whatsapp via Twillio API, automated billing generation and more.
 
 ### 🌟 Highlights
 - 1 year of fullstack development experience with a focus on data analysis and process optimization.
-- Strong background in business operations from managing a medical clinic, bringing unique insights to tech solutions.
+- Strong background in business operations and BI from managing a medical clinic, bringing unique insights to tech solutions.
 - Creative problem-solver with a talent for increasing operational efficiency through innovative tech applications.
 
 ### 🎯 Career Objective
