@@ -25,6 +25,6 @@ Seeking international opportunities to deliver my value.
 ### 🌐 Open to Remote Work | Available for International Opportunities
 
 
-LinkedIn: https://www.linkedin.com/in/juliano-ceconi-8ba137121/
-Email: ceconilp@gmail.com
-Certificate: https://cursos.alura.com.br/user/ceconi/fullCertificate/3b0d648fdeaf61141d38201ec79d5255
+- LinkedIn: https://www.linkedin.com/in/juliano-ceconi-8ba137121/
+- Email: ceconilp@gmail.com
+- Certificate: https://cursos.alura.com.br/user/ceconi/fullCertificate/3b0d648fdeaf61141d38201ec79d5255
