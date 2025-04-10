@@ -1,30 +1,33 @@
-# Juliano Ceconi
-## Fullstack Developer | Data Analyst | Process Optimization Specialist
+## Olá! 👋 Eu sou Juliano Ceconi
 
-🇧🇷 Brazilian developer passionate about creating innovative solutions that blend technology and operational efficiency.
+Sou um desenvolvedor apaixonado por automação e otimização de processos, com foco em Google Apps Script e Python. Minha missão é transformar tarefas repetitivas em fluxos de trabalho eficientes e inteligentes.
 
-### 💻 Technical Skills
-- Jupyter Notebook, Google Colab (Python)
-- Data Analysis (Excel, Google Sheets, Python)
-- Google Apps Script (JavaScript, HTML, CSS)
-- Process Automation
+### O que você encontra por aqui:
 
-### 🚀 Key Projects (no supervision)
-- Developed a robust invoice issuance bot with advanced data handling and error management, showcasing skills in business process automation and system integration.
-- Created multiple small-scale projects from scratch using JavaScript, Python, HTML, and VBA, demonstrating versatility and quick learning ability.
-- Developed a full financial system with Google Sheets/Google Apps Script with db, backups, dashboards, Income Statement, logs, user control, data treatment, whatsapp via Twillio API, automated billing generation and more.
+*   **Automação de Processos:** Projetos que demonstram como automatizar tarefas complexas usando Google Apps Script e Python, integrando sistemas e APIs.
+*   **Soluções Práticas:** Código funcional, com foco em resolver problemas reais de negócios.
+*   **Google Workspace Expertise:** Sistemas completos construídos dentro do Google Sheets, com interfaces personalizadas e integrações com outros serviços Google.
+*   **RPA (Robotic Process Automation):** Scripts que automatizam interações com websites e aplicações desktop, extraindo dados e preenchendo formulários de forma inteligente.
 
-### 🌟 Highlights
-- 1 year of fullstack development experience with a focus on data analysis and process optimization.
-- Strong background in business operations and BI from managing a medical clinic, bringing unique insights to tech solutions.
-- Creative problem-solver with a talent for increasing operational efficiency through innovative tech applications.
+### Projetos Destacados:
 
-### 🎯 Career Objective
-Seeking international opportunities to deliver my value.
+*   **EmissaoDeNotasFiscais:** Automação completa da emissão de notas fiscais em um sistema web usando Python e Selenium.
+*   **PlanilhaCaixa:** Sistema de gestão de fluxo de caixa construído inteiramente em Google Sheets com Google Apps Script, incluindo interface personalizada e backups automáticos.
+*   **gestor-caixa:** Integração de dados entre um sistema legado e o Google Sheets, utilizando Python para extração e Google Apps Script para inserção.
 
-### 🌐 Open to Remote Work | Available for International Opportunities
+### Tecnologias que eu domino:
 
+*   Google Apps Script (GAS)
+*   Python
+*   Selenium
+*   Pandas
+*   HTML
+*   CSS
+*   JavaScript
 
-- LinkedIn: https://www.linkedin.com/in/juliano-ceconi-8ba137121/
-- Email: ceconilp@gmail.com
-- Certificate: https://cursos.alura.com.br/user/ceconi/fullCertificate/3b0d648fdeaf61141d38201ec79d5255
+### Entre em contato:
+
+*   [Meu LinkedIn](https://www.linkedin.com/in/juliano-ceconi-8ba137121/)
+*   ceconilp@gmail.com
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato!
