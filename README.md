@@ -31,3 +31,39 @@ Sou um desenvolvedor apaixonado por automação e otimização de processos, com
 *   ceconilp@gmail.com
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+
+---
+
+## Hello! 👋 I'm Juliano Ceconi
+
+I'm a developer passionate about process automation and optimization, focusing on Google Apps Script and Python. My mission is to transform repetitive tasks into efficient and intelligent workflows.
+
+### What you'll find here:
+
+*   **Process Automation:** Projects demonstrating how to automate complex tasks using Google Apps Script and Python, integrating systems and APIs.
+*   **Practical Solutions:** Functional and well-documented code, focused on solving real business problems.
+*   **Google Workspace Expertise:** Complete systems built within Google Sheets, with custom interfaces and integrations with other Google services.
+*   **RPA (Robotic Process Automation):** Scripts that automate interactions with websites and desktop applications, extracting data and filling forms intelligently.
+
+### Featured Projects:
+
+*   **EmissaoDeNotasFiscais:** Complete automation of invoice generation in a web system using Python and Selenium.
+*   **PlanilhaCaixa:** Cash flow management system built entirely in Google Sheets with Google Apps Script, including a custom interface and automated backups.
+*   **gestor-caixa:** Data integration between a legacy system and Google Sheets, using Python for extraction and Google Apps Script for insertion.
+
+### Technologies I master:
+
+*   Google Apps Script (GAS)
+*   Python
+*   Selenium
+*   Pandas
+*   HTML
+*   CSS
+*   JavaScript
+
+### Get in touch:
+
+*   [My LinkedIn](https://www.linkedin.com/in/juliano-ceconi-8ba137121/)
+*   ceconilp@gmail.com
+
+Feel free to explore my repositories and get in touch!
