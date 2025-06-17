@@ -1,6 +1,6 @@
 ## Olá! 👋 Eu sou Juliano Ceconi
 
-Sou um desenvolvedor apaixonado por automação e otimização de processos, com foco em Google Apps Script e Python. Minha missão é transformar tarefas repetitivas em fluxos de trabalho eficientes e inteligentes.
+Sou um Gestor e Desenvolvedor apaixonado por automação e otimização de processos, com foco em Google Apps Script e Python. Minha missão é transformar tarefas repetitivas em fluxos de trabalho eficientes e inteligentes.
 
 ### O que você encontra por aqui:
 
