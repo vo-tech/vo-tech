@@ -24,11 +24,13 @@ Sou um Gestor e Desenvolvedor apaixonado por automação e otimização de proce
 *   HTML
 *   CSS
 *   JavaScript
+*   n8n
 
 ### Entre em contato:
 
 *   [Meu LinkedIn](https://www.linkedin.com/in/juliano-ceconi-8ba137121/)
 *   ceconilp@gmail.com
+*   (77)99827-2220
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato!
 
