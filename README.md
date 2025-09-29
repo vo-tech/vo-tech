@@ -11,7 +11,6 @@ Sou um Gestor e Desenvolvedor apaixonado por automação e otimização de proce
 
 ### Projetos Destacados:
 
-*   **EmissaoDeNotasFiscais:** Automação completa da emissão de notas fiscais em um sistema web usando Python e Selenium.
 *   **PlanilhaCaixa:** Sistema de gestão de fluxo de caixa construído inteiramente em Google Sheets com Google Apps Script, incluindo interface personalizada e backups automáticos.
 *   **gestor-caixa:** Integração de dados entre um sistema legado e o Google Sheets, utilizando Python para extração e Google Apps Script para inserção.
 
@@ -30,7 +29,7 @@ Sou um Gestor e Desenvolvedor apaixonado por automação e otimização de proce
 
 *   [Meu LinkedIn](https://www.linkedin.com/in/juliano-ceconi-8ba137121/)
 *   ceconilp@gmail.com
-*   (77)99827-2220
+*   +55 77 99827-2220
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato!
 
@@ -49,7 +48,6 @@ I'm a developer passionate about process automation and optimization, focusing o
 
 ### Featured Projects:
 
-*   **EmissaoDeNotasFiscais:** Complete automation of invoice generation in a web system using Python and Selenium.
 *   **PlanilhaCaixa:** Cash flow management system built entirely in Google Sheets with Google Apps Script, including a custom interface and automated backups.
 *   **gestor-caixa:** Data integration between a legacy system and Google Sheets, using Python for extraction and Google Apps Script for insertion.
 
@@ -62,10 +60,12 @@ I'm a developer passionate about process automation and optimization, focusing o
 *   HTML
 *   CSS
 *   JavaScript
+*   n8n
 
 ### Get in touch:
 
 *   [My LinkedIn](https://www.linkedin.com/in/juliano-ceconi-8ba137121/)
 *   ceconilp@gmail.com
+*   +55 77 99827-2220
 
 Feel free to explore my repositories and get in touch!
